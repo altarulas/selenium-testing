@@ -3,7 +3,7 @@
 Project Report
 	             
 
-Video Link: https://www.youtube.com/watch?v=M2fVOOl73Ow
+Video Link: https://youtu.be/MSvvgTcN7Ic
 
 
 1.Testing the login page with wrong account to see what kind of massage will be released. 
